@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidAssignment</string>
+
+    <string name="please_retry">Please Retry</string>
+
+    <string name="empty_screen">We do not have anything\nhere right now.</string>
+    <string name="products">Products</string>
+    <string name="brands">Brands</string>
+</resources>
